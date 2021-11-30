@@ -1,4 +1,10 @@
-### Hi there 👋
+## About Me!
+My goal for year 2021 is to create a trading bot that can effectively trade on live market with my own strategy using lagging and leading indicators of a selected market and analyse the successfulness of the strategy.
+
+
+Looking to collaborate with people who are interested in developing market strategies.
+
+Contact me on gyuchantech@gmail.com
 
 <!--
 **GyuchanLim/GyuchanLim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
