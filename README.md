@@ -1,5 +1,5 @@
 ## About Me!
-My goal for year 2021 is to create a trading bot that can effectively trade on live market with my own strategy using lagging and leading indicators of a selected market and analyse the successfulness of the strategy.
+My goal is to come up with my own trading strategy using lagging and leading indicators of a selected market.
 
 
 Looking to collaborate with people who are interested in developing market strategies.
