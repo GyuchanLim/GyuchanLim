@@ -1,8 +1,4 @@
 ## About Me!
-My goal is to come up with my own trading strategy using lagging and leading indicators of a selected market.
-
-
-Looking to collaborate with people who are interested in developing market strategies.
 
 Contact me on gyuchantech@gmail.com
 
