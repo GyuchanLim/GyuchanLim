@@ -1,6 +1,6 @@
 ## About Me!
 
-Contact me on gyuchantech@gmail.com
+Contact me on gyuchaaan.lim@gmail.com
 
 <!--
 **GyuchanLim/GyuchanLim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
